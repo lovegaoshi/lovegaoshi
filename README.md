@@ -1,5 +1,10 @@
 ### Hi there 👋
+Currently devoted to music segmentation and VTuber singers. AIMP is the best music player app. Lets connect!
 
+🔭 I’m currently working on ...
+- [AzusaPlayerMobile](https://github.com/lovegaoshi/azusa-player-mobile): The YTMusic of Bilibili in the style of AIMP with VTuber sprinkles. Works like wonders.
+- [NoxPlayer](https://github.com/lovegaoshi/azusa-player): The YTMusic of Bilibili but in the form of a chrome extension. A forked project of [azusa-player](https://github.com/kenmingwang/azusa-player) with feature enhancements.
+-  [Inaseg](https://github.com/lovegaoshi/ipynb): A python script wrapping yt-dlp, ffmpeg, [InaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter), [shazamapi](https://pypi.org/project/ShazamAPI/) and [biliup-rs](https://github.com/biliup/biliup-rs) that achieved fully autonomous music segmentation, recognization and upload of any music streams. In particular, VTuber singer livestreams. Works like wonders, would highly recommend.
 <!--
 **lovegaoshi/lovegaoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
