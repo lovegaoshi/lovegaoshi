@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently devoted to music segmentation and VTuber singers. AIMP is the best music player app. Lets connect!
+I'm a self-proclaimed react native expert on android, but I also build desktop app stuff. Check out my apps! Let's connect!
 
 🔭 I’m currently working on ...
 - [AzusaPlayerMobile](https://github.com/lovegaoshi/azusa-player-mobile): The YTMusic of Bilibili in the style of AIMP with VTuber sprinkles. Works like wonders.
